@@ -1,7 +1,7 @@
-.product-page{
+.product-page {
     display: grid;
-    grid-template-columns: repeat(4,1fr);
-    grid-gap: 50px;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 40px;
     /* background-color: aqua; */
-    margin:20px;
+    margin: 20px;
 }
