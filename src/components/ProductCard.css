@@ -1,0 +1,20 @@
+.product-card {
+  /* background-color: blue; */
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 20px;
+  text-align: center;
+  padding-bottom: 5px;
+}
+.product-card > img {
+  width: 100%;
+  height: 55vh;
+  border-radius: 20px 20px 0px 0px;
+}
+.product-card .title {
+  font-weight: 700;
+}
+.product-card .field {
+ display: flex;
+ justify-content: space-between;
+  padding: 2px 20px;
+}
